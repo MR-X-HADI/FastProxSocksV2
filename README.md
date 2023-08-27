@@ -4,5 +4,5 @@ print("Privat Prox/SocksV2")
 ~~~
 
 ```
-Ini Hanya Untuk Tujuan Pendidikan. Saya Tidak Bermaksud & Mempromosikan dan Melakukan Apa Pun Yang Ilegal.
+ɪɴɪ ʜᴀɴʏᴀ ᴜɴᴛᴜᴋ ᴛᴜᴊᴜᴀɴ ᴘᴇɴᴅɪᴅɪᴋᴀɴ ꜱᴀʏᴀ ᴛɪᴅᴀᴋ ʙᴇʀᴍᴀᴋꜱᴜᴅ & ᴍᴇᴍᴘʀᴏᴍᴏꜱɪᴋᴀɴ ᴅᴀɴ ᴍᴇʟᴀᴋᴜᴋᴀɴ ᴀᴘᴀ ᴘᴜɴ ʏᴀɴɢ ɪʟᴇɢᴀʟ.
 ```
