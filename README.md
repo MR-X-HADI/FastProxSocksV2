@@ -1,1 +1,1 @@
-# FastProxSocksV2
+# FastProxSocks 
