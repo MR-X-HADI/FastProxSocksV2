@@ -1,6 +1,6 @@
 
 ~~~python
-print("Privat Prox/SocksV2 !")
+print("Privat Prox/SocksV2")
 ~~~
 
 ```
